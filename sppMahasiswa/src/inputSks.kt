@@ -1,0 +1,4 @@
+package sppMahasiswa
+
+class inputSks {
+}
